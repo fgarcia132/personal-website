@@ -9,7 +9,7 @@
 		<h1>simplerex.com</h1>
 		<h2>Sitemap</h2>
 		<p>
-			This is a single page layout. Incorporating portfolio as well as contact information.
+			This is a single page layout. Incorporating an about me text field, services provided field, as well as contact form and professional links.
 		</p>
 		<h2>Content Strategy</h2>
 		<P>
