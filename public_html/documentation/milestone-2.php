@@ -15,7 +15,7 @@
 	</P>
 	<h2>Interaction Flow</h2>
 	<p>
-		Potential client navigates to the site in order to gain more knowledge about whom they might be hiring. They read the description of services. Then flow to the next text field describing why I would like to help them with their site. Ultimately finding my contact information and professional links at the bottom of the page, and leaving an email accordingly.
+		Potential client navigates to the site in order to gain more knowledge about whom they might be hiring. They read the description of services. Then flow to the next text field describing why I would like to help them with their site. Ultimately finding my contact information and professional links at the bottom of the page, and leaving an email accordingly by using the contact form.
 	</p>
 	<h2>Wireframes</h2>
 	<img src="images/wireframe4t.svg">
