@@ -18,3 +18,8 @@ See the Edits &amp; Suggestions section below for technical fixes. **I cannot pa
 - Directory structure is incorrect. See [Milestone One Documentation](https://bootcamp-coders.cnm.edu/projects/personal/milestone-one/)
 - All Milestone documents and files must be inside the /documentation directory.
 - Complete the wireframe and content strategy documentation.
+
+## Milestone 2&alpha; Feedback - Updated
+This is great - nice work cleaning things up. This layout should be a breeze using Bootstrap. FYI, FontAwesome has the majority of social media icons included. Your directory structure is correct now, and all Milestone requirements have been met. Because this was submitted late, your Milestone 2&alpha; passes at [Tier I](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
+
+You are clear to begin development on your PWP.
