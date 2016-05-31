@@ -1,7 +1,3 @@
-#col-xs-12 {
-	font-family: 'Arimo', sans-serif;
-}
-
 /***
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
@@ -26,11 +22,11 @@ body { width: 100%;}
 	flex: 1 0 auto;
 }
 
-.copyright {
-	color: lightgray;
+.row {
+	margin: 50px;
 }
 
-.foot-content {
-	color: white;
+.copyright {
+	color: lightgray;
 }
 
