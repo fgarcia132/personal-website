@@ -39,18 +39,20 @@ p {
  }
 
  h4 {
-	 font-family: Monospaced;
+	 font-family: Monospaced, strong;
 	 font-size: 21px;
 	 color: ghostwhite;
+	 text-align: center;
  }
 
  .well{
 	 background-image:url('../images/blackandwhite.jpg');
  }
+
 h1 {
 	font-family: 'Noto Sans', sans-serif, strong;
 	font-size: 44px;
 	color: #43EDD7;
-
+	border-color: black;
 }
 
