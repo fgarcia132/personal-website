@@ -9,10 +9,7 @@
 html { display: flex;}
 body { width: 100%;}
 
-h1 {
-	font-family: 'Arimo', sans-serif, strong;
-	color: teal;
-}
+
 .sfooter {
 	display: flex;
 	flex-direction: column;
@@ -35,15 +32,25 @@ h1 {
 .copyright {
 	color: lightgray;
 }
- p {
+
+p {
 	 font-family: 'Noto Sans', sans-serif;
+	 color: ghostwhite;
  }
 
  h4 {
-	 font-family: 'Noto Sans', sans-serif;
+	 font-family: Monospaced;
+	 font-size: 21px;
+	 color: ghostwhite;
  }
 
  .well{
-	 background-color: black;
+	 background-image:url('../images/blackandwhite.jpg');
  }
+h1 {
+	font-family: 'Noto Sans', sans-serif, strong;
+	font-size: 44px;
+	color: #43EDD7;
+
+}
 
