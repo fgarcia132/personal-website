@@ -1,3 +1,5 @@
+
+
 /***
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
@@ -7,6 +9,10 @@
 html { display: flex;}
 body { width: 100%;}
 
+h1 {
+	font-family: 'Arimo', sans-serif, strong;
+	color: teal;
+}
 .sfooter {
 	display: flex;
 	flex-direction: column;
@@ -29,4 +35,15 @@ body { width: 100%;}
 .copyright {
 	color: lightgray;
 }
+ p {
+	 font-family: 'Noto Sans', sans-serif;
+ }
+
+ h4 {
+	 font-family: 'Noto Sans', sans-serif;
+ }
+
+ .well{
+	 background-color: black;
+ }
 
