@@ -1,3 +1,6 @@
+#col-xs-12 {
+	font-family: 'Arimo', sans-serif;
+}
 
 /***
 * Flexbox Sticky Footer
@@ -22,3 +25,12 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+
+.copyright {
+	color: lightgray;
+}
+
+.foot-content {
+	color: white;
+}
+
