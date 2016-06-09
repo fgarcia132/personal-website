@@ -28,8 +28,7 @@
 
 		<link href='https://fonts.googleapis.com/css?family=Noto+Sans|Arimo' rel='stylesheet' type='text/css'>
 
-		<!-- CUSTOM CSS -->
-		<link rel="stylesheet" href="documentation/css/style.css" type="text/css">
+
 
 		<!-- minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
@@ -51,6 +50,9 @@
 
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
+
+		<!-- CUSTOM CSS -->
+		<link rel="stylesheet" href="css/stylesheet.css" type="text/css">
 
 
 		<title>simplexrex.com</title>

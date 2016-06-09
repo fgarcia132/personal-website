@@ -14,7 +14,7 @@ body { width: 100%;}
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
-	background-image:url('../images/background.2.jpg');
+	background-image:url('../documentation/images/background.2.jpg');
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: center;
@@ -46,7 +46,7 @@ p {
  }
 
  .well{
-	 background-image:url('../images/blackandwhite.jpg');
+	 background-image:url('../documentation/images/blackandwhite.jpg');
  }
 
 h1 {
