@@ -56,3 +56,20 @@ h1 {
 	border-color: black;
 }
 
+.form-group {
+	color: ghostwhite;
+}
+
+
+.center_div {
+	margin: 0 auto;
+	width: 60%;
+}
+
+.foot-content {
+	color: ghostwhite;
+}
+
+.g-recaptcha {
+	;
+}
