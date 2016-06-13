@@ -73,3 +73,8 @@ h1 {
 .g-recaptcha {
 	;
 }
+
+li {
+	color: ghostwhite;
+	margin-left: 15px;
+}

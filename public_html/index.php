@@ -99,12 +99,18 @@
 							<div class="col-md-6">
 								<div class="well">
 									<h4>About Me</h4>
+										<p>I'm a Web Developer that is based between Seattle and Albuquerque. </p>
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="well">
 									<h4>Services Provided</h4>
-										<p>;aohjf;lkasdhfkasdhfa;sdkfja;l'skfjka'sfj'asdjf'kadjf'asjf'asd. a;lkjdf fnfe fh iahjsdf aljfn. adlfh</p>
+										<p>If you're a small to medium sized business that is looking to expand their reach online I can:</p>
+									<ui>
+										<li>Build  a clean functional Website</li>
+										<li>Work with you to build it to your wants and needs</li>
+										<li>Search Engine Optimization (SEO) to broaden consumer base </li>
+									</ui>
 								</div>
 							</div>
 						</div>
